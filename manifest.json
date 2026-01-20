@@ -1,0 +1,15 @@
+{
+  "name": "NRGAMERXYT",
+  "short_name": "NRGAMERXYT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0f14",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3612/3612569.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
